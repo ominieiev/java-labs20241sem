@@ -7,7 +7,7 @@ public class Main {
         int[] heightsOfStudents = new int[20];
         heightsOfStudents[0] = 180;
 
-        double d = 1.1;
+        double doubleVar = 1.1;
         int i = 2;
         long l = 3;
         float f = 4.4f;
